@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nodepoint.co.uk/assets/images/logo-wordmark.svg" alt="Nodepoint" height="50" />
+  <img src="https://nodepoint.co.uk/assets/images/logo-wordmark.svg" alt="Nodepoint" height="200" />
 </p>
 
 Independent consultancy delivering mission-critical, cloud-native platforms for high-stakes transformation programmes in highly regulated environments — Financial Services, Government, and beyond.
