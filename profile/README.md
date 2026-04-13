@@ -15,5 +15,5 @@ We take full accountability for delivery: architecting the technical vision, hir
 ---
 
 <p align="center">
-  <a href="https://nodepoint.co.uk">Company website</a> · <a href="https://www.linkedin.com/company/nodepoint">LinkedIn</a>
+  <a href="https://nodepoint.co.uk">Company website</a> · <a href="https://www.linkedin.com/company/nodepoint-solutions">LinkedIn</a>
 </p>
